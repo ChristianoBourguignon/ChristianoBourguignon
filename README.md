@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1>
+  <img src="name.svg" alt="Christiano Bourguignon">
+</h1>
 
-<!--
-**ChristianoBourguignon/ChristianoBourguignon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<marquue>
 
-Here are some ideas to get you started:
+I"m a self-taught passionate Back-End developer from Brazil 🇧🇷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+```java
+public class Christiano {
+  int age = 23;
+  char gender = "M";
+  String code[] = {"Javascript","PHP", "Java","React","NodeJS"}
+  String stringFormation = "Analysis and Development of Systems / Developer Back-end"
+  String stringOccupation = "Intern in Technical Support"
+  String speakLanguages[] = {"pt-br", "en"};
+  String ilikeIt = "I like writing PHP and Java, but always experiments other languages / Gosto de codar PHP e Java, mas sempre experimentando outras linguagues."
+}
+```
+<div align="center">
+
+
+[![Linkedin: Christiano](https://img.shields.io/badge/Linkedin-christianoBourguignon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christianobourguignon/)](https://www.linkedin.com/in/christianobourguignon/)
+[![GitHub Christiano](https://img.shields.io/github/followers/christianobourguignon?label=Seguidores&style=social)](https://github.com/christianoBourguignon)
+
+<br>
+
+💬 Ask me about anything [here](https://github.com/christianobourguignon/christianobourguignon/issues)
+
+<br>
+
+<code><img height="20" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="NodeJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+<code><img height="20" alt="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>  
+</div>
+<br>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=christianobourguignon&show_icons=true&include_all_commits=true&theme=aura_dark&hide_border=true" alt="Anurag"s github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianobourguignon&layout=donut&theme=aura_dark&hide_border=true" /></a> |
+| ------------- | ------------- |
