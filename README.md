@@ -39,5 +39,5 @@ public class Christiano {
 </div>
 <br>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=christianobourguignon&show_icons=true&include_all_commits=true&theme=aura_dark&hide_border=true" alt="Anurag"s github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianobourguignon&layout=donut&theme=aura_dark&hide_border=true" /></a> |
+| <a href="https://github.com/christianobourguignon/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=christianobourguignon&show_icons=true&include_all_commits=true&theme=aura_dark&hide_border=true" alt="Christiano github stats" /></a> | <a href="https://github.com/christianobourguignon/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianobourguignon&layout=donut&theme=aura_dark&hide_border=true" /></a> |
 | ------------- | ------------- |
